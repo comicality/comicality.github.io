@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Comicality</title>
+    <link>http://comicality.github.io/post/</link>
+    <description>Recent content in Posts on Comicality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 20 Aug 2019 12:12:00 +0700</lastBuildDate>
+    
+	<atom:link href="http://comicality.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>初建博客</title>
+      <link>http://comicality.github.io/post/firtblog/</link>
+      <pubDate>Tue, 20 Aug 2019 12:12:00 +0700</pubDate>
+      
+      <guid>http://comicality.github.io/post/firtblog/</guid>
+      <description>努力！奋斗！ 拼你想要的，争你没有的！</description>
+    </item>
+    
+  </channel>
+</rss>

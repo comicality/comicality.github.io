@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comicality</title>
+    <link>http://comicality.github.io/</link>
+    <description>Recent content on Comicality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 20 Aug 2019 12:12:00 +0700</lastBuildDate>
+    
+	<atom:link href="http://comicality.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>初建博客</title>
+      <link>http://comicality.github.io/post/firtblog/</link>
+      <pubDate>Tue, 20 Aug 2019 12:12:00 +0700</pubDate>
+      
+      <guid>http://comicality.github.io/post/firtblog/</guid>
+      <description>努力！奋斗！ 拼你想要的，争你没有的！</description>
+    </item>
+    
+    <item>
+      <title>联系我</title>
+      <link>http://comicality.github.io/contact/</link>
+      <pubDate>Tue, 20 Aug 2019 12:10:00 +0700</pubDate>
+      
+      <guid>http://comicality.github.io/contact/</guid>
+      <description>说明 有什么技术（亲，这边建议你百度一下呢）或者生活上的上的问题可以给我发邮件，我看见并能解决或者给些建议的一定会回复的。 邮箱 15181785707@139.com
+1915477243@qq.com
+地址 四川成都</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>http://comicality.github.io/about/</link>
+      <pubDate>Tue, 20 Aug 2019 12:00:00 +0700</pubDate>
+      
+      <guid>http://comicality.github.io/about/</guid>
+      <description> 要跑啊，少年！ 你好，这里是Comicality的小屋，用于记录Comicality在IT路上的一些心得体会，遇到的问题及解决方案，偶尔会聊一些八卦及新闻。Comicality是一位热衷于科技，小说，动漫，游戏的滑稽患者。接下来简单介绍一下我自己（我要开始吹嘘自己了，大家让一让，别挡着我装逼了），说起吹嘘，Comicality便来了劲，“温两碗酒，要一碟茴香豆。”便排出九文大钱。想了想，又故作深沉，“再来一杯寂寞加冰”，Comicality如此说道。良久，又见Comicality说道：“停一下，停一下，大哥们看走眼了，我不是大佬，我其实是条咸鱼哒，求求你们别再打了，小的以后再也不敢装逼了，给大哥递茶。” </description>
+    </item>
+    
+  </channel>
+</rss>
